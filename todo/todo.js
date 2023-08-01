@@ -10,7 +10,7 @@ class Todo {
         },
         {
           id: "2",
-          description: "sibora",
+          description: "pinto",
         },
       ],
     });

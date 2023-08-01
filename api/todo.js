@@ -61,6 +61,4 @@ router.patch("/:id", async (req, res, next) => {
   res.send({ success: true });
 });
 
-
-
 module.exports = router;
